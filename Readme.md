@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Sanjita Khadka.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
@@ -38,14 +38,14 @@ I am a passionate student developer currently learning **Web Development** at **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhikarisaroj795&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 ## 📫 How to reach me
 
-[![sanjitakha2022@gmail.com](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[!sanjitakha2022@gmail.com(https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 ---
