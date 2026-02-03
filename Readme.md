@@ -12,7 +12,7 @@ I am a passionate student developer currently learning **Web Development** at **
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Anything! I'm happy to help**
 - ⚡ Fun fact: **I love debugging until midnight!**e
-- 👨‍🏫 Mentored by: [Saroj Adhikari](https://github.com/adhikarisaroj795)
+- 👨‍🏫 Mentored by: Sanjita Khadka(https://github.com/adhikarisaroj795)
 
 ---
 
